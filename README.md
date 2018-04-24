@@ -1,4 +1,4 @@
-<a href="#program">Program</a> | <a href="#registration">Registration</a> | <a href="#logistics">Logistics</a>
+<a href="#apply">Apply</a> | <a href="#logistics">Logistics</a>
 ---
 # Latin American Political Methodology Meeting
 
@@ -7,13 +7,12 @@ Welcome! We are excited to announce the second Latin American PolMeth meeting. T
 
 The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by pominent political methodologists. 
 
-# Call for abstracts
+## Apply
 
-Our call for abstracts is now open. The deadline to apply is May 25, 2018. To apply, please complete the form available [here](https://docs.google.com/forms/d/1P0dRDOxxm4EuJdDLPqre3r6qhyZbozKl6Eu8mCd5kDA/edit). Participants will be notified of a decision on their application on June 15. 
+Our call for abstracts is now open. The deadline to apply is **Friday May 25, 2018**. To apply, please complete the form available [here](https://docs.google.com/forms/d/1P0dRDOxxm4EuJdDLPqre3r6qhyZbozKl6Eu8mCd5kDA/edit). Participants will be notified of a decision on their application on June 15. 
 
 
 ## Logistics
-
 
 ### Meeting location
 The meeting will take place in **Bogotá, Colombia**, at the Universidad de los Andes, on **November 8 and 9, 2018**. 
