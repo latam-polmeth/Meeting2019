@@ -27,6 +27,7 @@ All talks and sessions will be held in English.
 ### Organizing team
 
 - Laura Wills Otero (Universidad de los Andes, Colombia)
+- John Londregan (Princeton University)
 - Carmen Le Foulon (Universidad Católica de Chile)
 - Santiago López-Cariboni (Universidad Católica del Uruguay)
 - Luis Maldonado (Universidad Católica de Chile)
@@ -34,7 +35,7 @@ All talks and sessions will be held in English.
 
 ### Sponsors
 
-<img src="uniandes.png" alt="Universidad de los Andes" height="50"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" height="50">
+<img src="uniandes.png" alt="Universidad de los Andes" height="50"> <img src="princeton.jpg" alt="Princeton University" height="50"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" height="50">
 
 
 
