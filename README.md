@@ -34,7 +34,7 @@ All talks and sessions will be held in English.
 
 ### Sponsors
 
-<img src="uniandes.jpg" alt="Universidad Católica de Chile" width="100"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" width="175">
+<img src="uniandes.png" alt="Universidad de los Andes" width="100"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" width="175">
 
 
 
