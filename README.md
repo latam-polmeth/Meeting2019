@@ -9,7 +9,7 @@ The meeting will feature paper workshops, a poster session for graduate students
 
 ## Apply
 
-Our **call for abstracts is now open**. The deadline to apply is **Monday May 28, 2018**. To apply, please complete the form available [here](https://docs.google.com/forms/d/1P0dRDOxxm4EuJdDLPqre3r6qhyZbozKl6Eu8mCd5kDA/edit). Participants will be notified of a decision on their application on June 15. 
+Our **call for abstracts is now open**. The deadline to apply is **Monday May 28, 2018**. To apply, please complete the form available [here](http://bit.ly/2I1C8qH). Participants will be notified of a decision on their application on June 15. 
 
 
 ## Logistics
