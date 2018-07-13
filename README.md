@@ -9,22 +9,22 @@ The meeting will feature paper workshops, a poster session for graduate students
 
 ## Register
 
-Registration for the event is now open. To register, go to [https://www.cambridge.org/core/membership/spm/conferences/latin-american-polmeth].
+Registration for the event is now open. To register, go to <https://www.cambridge.org/core/membership/spm/conferences/latin-american-polmeth>.
 
 - You will be required to create an account with Cambridge Core before proceeding with registration.
  
 - The LAPolMeth II registration fee depends on whether you are a student, and whether you are a member of the Society for Political Methodology. The LAPolMeth II registration fees are:
     + SPM Member: $15 (non-student), $5 (student)
     + SPM Non-member: $50 (non-student), $15 (student)
-You may join SPM directly as you register for LAPolMeth II. SPM members receive online access to all issues of Political Analysis, as well as discounts on all Cambridge University Press books. For more information on becoming an SPM member, see here: [https://www.cambridge.org/core/membership/spm/membership]
+You may join SPM directly as you register for LAPolMeth II. SPM members receive online access to all issues of Political Analysis, as well as discounts on all Cambridge University Press books. For more information on becoming an SPM member, see here: <https://www.cambridge.org/core/membership/spm/membership>
 
-- **After completing the registration, you will be required to fill out additional information via the following form:** [http://bit.ly/2KKGs2J] 
+- **After completing the registration, you will be required to fill out additional information via the following form:** <http://bit.ly/2KKGs2J> 
 
 ## Program
 
 The event will feature keynote presentations by Kosuke Imai (president of the Society for Political Methodology), Jeff Gill (chief editor of Political Analysis), and Adriana Crespo-Tenorio (researcher at Facebook), manuscript workshop sessions with scholars from 6 different countries, and a poster session featuring exciting work by graduate students.
 
-A copy of the program is available [here](https://docs.google.com/document/d/1zVm6Lw8w9glp_A8-Mbvb4krKkxV5T1E_BVpKzRAsvoQ/edit?usp=sharing) 
+A copy of the program is available [here].(https://docs.google.com/document/d/1zVm6Lw8w9glp_A8-Mbvb4krKkxV5T1E_BVpKzRAsvoQ/edit?usp=sharing) 
 
 ## Logistics
 
