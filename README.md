@@ -18,6 +18,8 @@ Registration for the event is now open. To register, go to <https://www.cambridg
     + SPM Non-member: $50 (non-student), $15 (student)
 You may join SPM directly as you register for LAPolMeth II. SPM members receive online access to all issues of Political Analysis, as well as discounts on all Cambridge University Press books. For more information on becoming an SPM member, see here: <https://www.cambridge.org/core/membership/spm/membership>
 
+- During registration, please leave the Donations section empty, and continue with the registration process. 
+
 - **After completing the registration, you will be required to fill out additional information via the following form:** <http://bit.ly/2KKGs2J> 
 
 ## Program
