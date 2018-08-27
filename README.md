@@ -9,7 +9,7 @@ The meeting will feature paper workshops, a poster session for graduate students
 
 ## Register
 
-Registration for the event is now open. To register, go to <https://www.cambridge.org/core/membership/spm/conferences/latin-american-polmeth>. **The deadline for registrations is August 22, 2018**.
+Registration for the event is now open. To register, go to <https://www.cambridge.org/core/membership/spm/conferences/latin-american-polmeth>. **The NEW deadline for registrations is August 31, 2018**.
 
 - You will be required to create an account with Cambridge Core before proceeding with registration.
  
