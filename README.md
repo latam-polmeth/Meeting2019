@@ -42,7 +42,8 @@ All talks and sessions will be held in English.
 
 ### Organizing team
 
-- Laura Wills Otero (Universidad de los Andes, Colombia)
+- Luis Bernardo Mejía (Universidad de los Andes, Colombia)
+- Felipe Botero (Universidad de los Andes, Colombia)
 - John Londregan (Princeton University)
 - Carmen Le Foulon (Universidad Católica de Chile)
 - Santiago López-Cariboni (Universidad Católica del Uruguay)
