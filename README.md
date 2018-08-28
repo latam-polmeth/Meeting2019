@@ -1,6 +1,6 @@
 <a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
 ---
-<img src="LAPolMeth_Full_Logo_Full_Color.jpg" alt="LAPolMeth"> 
+<img src="LAPolMeth_Logo.png" alt="LAPolMeth"> 
 
 # Latin American Political Methodology Meeting
 
