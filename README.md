@@ -40,6 +40,16 @@ There will be a day of public presentations which will be open to the public, an
 
 All talks and sessions will be held in English.
 
+### Logding
+
+Overall, AirBnB is a fantastic option to find affordable places to stay in the city. 
+
+If you are looking for a place that is close to some of the best restaurants and entertainment in town, then we recommend places in El Retiro, Zona G or Rosales neighborhoods. If you prefer hotels, some good hotel options in those neighborhoods include Casa Gaitan Cortez (casagaitancortes.com), Hotel BS la Quinta (bhlaquinta.com) and Mercure Hotel el Retiro (bhelretiro.com). 
+
+If you are looking to stay in the historical/colonial downtown (close to campus), then La Candelaria and La Macarena are convenient as well.  A few good hotel options include Hotel de la Opera (hotelopera.com.co) and BH Bicentenario (www.bhbicentenario.com). Downtown Bogotá is full of historical landmarks, narrow streets, museums and churches. It is not as lively at night as it is by day, and we would not recommend wandering its streets alone after dark. 
+
+Getting around in Bogotá is fairly easy using Uber (though traffic is heavy), so either place would be fine for enjoying the city sights. We're organizing a few tourist-y activities for Saturday, too, for those interested.
+
 ### Organizing team
 
 - Luis Bernardo Mejía (Universidad de los Andes, Colombia)
