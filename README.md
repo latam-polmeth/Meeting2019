@@ -34,14 +34,15 @@ A copy of the program is available [here](https://github.com/latam-polmeth/Meeti
 
 
 ### Meeting location
-The meeting will take place in **Bogotá, Colombia**, at the Universidad de los Andes, on **November 8 and 9, 2018**. All events will take place at the Mario Laserna building. A student affiliated with the Department of Political Science will be available at the building entrace to guide you to the event's location.
+The meeting will take place in **Bogotá, Colombia**, at the Universidad de los Andes, on **November 8 and 9, 2018**. Most events will take place at the Mario Laserna building, with a few panels also taking place at the W building. A student affiliated with the Department of Political Science will be available at the Mario Laserna entrace to guide you to the event's location on Thursday morning.
 
 ### Event format
 There will be a day of public presentations which will be open to the public, and which feature two keynote talks, one roundtable discussion, and a poster session for graduate students. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. There will be a short social event for all registered participants. 
 
 All talks and sessions will be held in English.
 
-### Miscelanious information
+### Miscellaneous information
+- The city's average temperature is 14°C (57°F) and it usually fluctuates between 9°C (48°F) and 22°C (72°F), during the course of the day. You can also expect it to be rainy.
 
 - For safety reasons, **we strongly discourage you from hailing taxis on the street**. It is much safer to use the EasyTaxi app, available on all major mobile platforms, or to arrange for a car service to pick you up. A good car service is http://www.bogotacarservice.com/. At the airport, and right after you go through customs with your bag, you will see a taxi stand on your right (along with money exchange booths). If you do not make arrangements with a car service to pick you up at the airport, it is best to approach this taxi booth and arrange for a taxi to take you to your destination then.
 
