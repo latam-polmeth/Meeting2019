@@ -43,9 +43,9 @@ All talks and sessions will be held in English.
 
 ### Miscelanious information
 
-- For safety reasons, **we strongly discourage you from hailing taxis on the street**. It is much safer to use Uber (which works well in the city; it is customary to take the front passenger seat first) or to arrange for a car service to pick you up. A good car service is http://www.bogotacarservice.com/. At the airport, and right after you go through customs with your bag, you will see a taxi stand on your right (along with money exchange booths). If you do not make arrangements with a car service to pick you up at the airport, it is best to approach this taxi booth and arrange for a taxi to take you to your destination then.
+- For safety reasons, **we strongly discourage you from hailing taxis on the street**. It is much safer to use the EasyTaxi app, available on all major mobile platforms, or to arrange for a car service to pick you up. A good car service is http://www.bogotacarservice.com/. At the airport, and right after you go through customs with your bag, you will see a taxi stand on your right (along with money exchange booths). If you do not make arrangements with a car service to pick you up at the airport, it is best to approach this taxi booth and arrange for a taxi to take you to your destination then.
 
-- Most places (including taxis) will not accept credit cards. Make sure you bring some Colombian pesos with you. 
+- Although restaurants and major stores typically accept credit cards, many places (including taxis) will not accept credit cards. Make sure you bring some Colombian pesos with you. 
 
 - Tips are typically 10% of your bill, and are usually included in the service (or else your server will ask you if you'd like to include the service as they process your payment).
 
