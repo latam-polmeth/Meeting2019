@@ -32,23 +32,26 @@ A copy of the program is available [here](https://github.com/latam-polmeth/Meeti
 
 ## Logistics
 
+
 ### Meeting location
-The meeting will take place in **Bogotá, Colombia**, at the Universidad de los Andes, on **November 8 and 9, 2018**. 
+The meeting will take place in **Bogotá, Colombia**, at the Universidad de los Andes, on **November 8 and 9, 2018**. All events will take place at the Mario Laserna building. A student affiliated with the Department of Political Science will be available at the building entrace to guide you to the event's location.
 
 ### Event format
-There will be a day of public presentations which will be open to the public, and which feature two keynote talks, one roundtable discussion, and a poster session for graduate students. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and no presentation will take place. There will be a short social event for all registered participants. 
+There will be a day of public presentations which will be open to the public, and which feature two keynote talks, one roundtable discussion, and a poster session for graduate students. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. There will be a short social event for all registered participants. 
 
 All talks and sessions will be held in English.
 
-### Logding
+### Miscelanious information
 
-Overall, AirBnB is a fantastic option to find affordable places to stay in the city. 
+- For safety reasons, **we strongly discourage you from hailing taxis on the street**. It is much safer to use Uber (which works well in the city; it is customary to take the front passenger seat first) or to arrange for a car service to pick you up. A good car service is http://www.bogotacarservice.com/. At the airport, and right after you go through customs with your bag, you will see a taxi stand on your right (along with money exchange booths). If you do not make arrangements with a car service to pick you up at the airport, it is best to approach this taxi booth and arrange for a taxi to take you to your destination then.
 
-If you are looking for a place that is close to some of the best restaurants and entertainment in town, then we recommend places in El Retiro, Zona G or Rosales neighborhoods. If you prefer hotels, some good hotel options in those neighborhoods include Casa Gaitan Cortez (casagaitancortes.com), Hotel BS la Quinta (bhlaquinta.com) and Mercure Hotel el Retiro (bhelretiro.com). 
+- Most places (including taxis) will not accept credit cards. Make sure you bring some Colombian pesos with you. 
 
-If you are looking to stay in the historical/colonial downtown (close to campus), then La Candelaria and La Macarena are convenient as well.  A few good hotel options include Hotel de la Opera (hotelopera.com.co) and BH Bicentenario (www.bhbicentenario.com). Downtown Bogotá is full of historical landmarks, narrow streets, museums and churches. It is not as lively at night as it is by day, and we would not recommend wandering its streets alone after dark. 
+- Tips are typically 10% of your bill, and are usually included in the service (or else your server will ask you if you'd like to include the service as they process your payment).
 
-Getting around in Bogotá is fairly easy using Uber (though traffic is heavy), so either place would be fine for enjoying the city sights. We're organizing a few tourist-y activities for Saturday, too, for those interested.
+- English is not commonly spoken in Colombia, except in hotels. 
+
+- To learn more about the campus of Universidad de los Andes, and about the city more generally, you can visit https://campusinfo.uniandes.edu.co/en/. Another great resource to learn more about Bogotá is https://bogotacb.com/en/.
 
 ### Organizing team
 
