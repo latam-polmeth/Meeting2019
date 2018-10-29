@@ -28,7 +28,7 @@ You may join SPM directly as you register for LAPolMeth II. SPM members receive 
 
 The event will feature keynote presentations by Kosuke Imai (president of the Society for Political Methodology), Jeff Gill (chief editor of Political Analysis), and Adriana Crespo-Tenorio (researcher at Facebook), manuscript workshop sessions with scholars from 6 different countries, and a poster session featuring exciting work by graduate students.
 
-A copy of the program is available [here](https://docs.google.com/document/d/19E6SmiE5JiQONpw9n9-cuy2V8GqUr1rkOkh6B71iRfg/edit?usp=sharing).
+A copy of the program is available [here](https://github.com/latam-polmeth/Meeting2018/blob/master/Agenda%20con%20salones.pdf).
 
 ## Logistics
 
