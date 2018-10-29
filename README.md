@@ -7,7 +7,7 @@
 
 Welcome! We are excited to announce the second Latin American PolMeth meeting. The event will take place in November 8 and 9 in Bogotá, Colombia, and will feature a day of public talks and a day of workshops for participant's manuscripts. It is hosted by the Universidad de los Andes, with support from Princeton University, the Society for Political Methodology and the University of North Carolina at Chapel Hill . 
 
-The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by pominent political methodologists. 
+The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists. 
 
 ## Register
 
