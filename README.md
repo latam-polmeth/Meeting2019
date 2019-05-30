@@ -43,7 +43,7 @@ All talks and sessions will be held in English.
 
 ### Sponsors
 
-<img src="ucu.png" alt="Universidad Católica del Uruguay" height="50"> <img src="princeton.jpg" alt="Princeton University" height="50"> <img src="PolMeth.png" alt="Society for Political Methodology" height="50"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" height="50">
+<img src="ucu.png" alt="Universidad Católica del Uruguay" height="57" width="150"> <img src="princeton.jpg" alt="Princeton University" height="50"> <img src="PolMeth.png" alt="Society for Political Methodology" height="50"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" height="50">
 
 
 
