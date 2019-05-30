@@ -1,72 +1,49 @@
-<a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
+<a href="#apply">Apply</a> | <a href="#logistics">Logistics</a>
 ---
 <img src="LAPolMeth_Logo.png" alt="LAPolMeth"> 
 
 # Latin American Political Methodology Meeting
 
 
-Welcome! We are excited to announce the second Latin American PolMeth meeting. The event will take place in November 8 and 9 in Bogotá, Colombia, and will feature a day of public talks and a day of workshops for participant's manuscripts. It is hosted by the Universidad de los Andes, with support from Princeton University, the Society for Political Methodology and the University of North Carolina at Chapel Hill . 
+Welcome! We are excited to announce the third Latin American PolMeth meeting. The event will take place in November 22 and 23 of 2019 in Montevideo, Uruguay. It is hosted by the Universidad Católica del Uruguay, with support from Princeton University, the Society for Political Methodology and the University of North Carolina at Chapel Hill. 
 
-The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists. 
+The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists.
+
+## Apply
+Applications are now open to participate as an *author* or as a presenter of a *graduate student poster*. We encourage those interested in participating to submit their abstracts through our application form, available at the event's [Cambridge University Press website](https://www.cambridge.org/core/membership/spm/register). **The deadline for submission is June 3, 2019. We will inform all applicants of a decision by June 10, 2019.**  
 
 ## Register
 
-Registration for the event is now open. To register, go to <https://www.cambridge.org/core/membership/spm/conferences/latin-american-polmeth>. **The NEW deadline for registrations is August 31, 2018**.
-
-- You will be required to create an account with Cambridge Core before proceeding with registration.
- 
-- The LAPolMeth II registration fee depends on whether you are a student, and whether you are a member of the Society for Political Methodology. The LAPolMeth II registration fees are:
-    + SPM Member: $15 (non-student), $5 (student)
-    + SPM Non-member: $50 (non-student), $15 (student)
-You may join SPM directly as you register for LAPolMeth II. SPM members receive online access to all issues of Political Analysis, as well as discounts on all Cambridge University Press books. For more information on becoming an SPM member, see here: <https://www.cambridge.org/core/membership/spm/membership>
-
-- During registration, please leave the Donations section empty, and continue with the registration process. 
-
-- **After completing the registration, you will be required to fill out additional information via the following form:** <http://bit.ly/2KKGs2J> 
+Registration for this event is not yet open. 
 
 ## Program
 
-The event will feature keynote presentations by Kosuke Imai (president of the Society for Political Methodology), Jeff Gill (chief editor of Political Analysis), Lorena Barberia (USP) and Adriana Crespo-Tenorio (researcher at Facebook), manuscript workshop sessions with scholars from 6 different countries, and a poster session featuring exciting work by graduate students.
-
-A copy of the program is available [here](https://github.com/latam-polmeth/Meeting2018/raw/master/Agenda.pdf).
+The event's program is will be defined after the application process is finalized. 
 
 ## Logistics
 
 
 ### Meeting location
-The meeting will take place in **Bogotá, Colombia**, at the Universidad de los Andes, on **November 8 and 9, 2018**. Most events will take place at the Mario Laserna building, with a few panels also taking place at the W building. A student affiliated with the Department of Political Science will be available at the Mario Laserna entrace to guide you to the event's location on Thursday morning.
+The meeting will take place in **Montevideo, Uruguay**, at the Universidad Católica del Uruguyay, on **November 22 and 23, 2010**. Additional information will be made available here as the time of the event draws near. 
 
 ### Event format
-There will be a day of public presentations which will be open to the public, and which feature two keynote talks, one roundtable discussion, and a poster session for graduate students. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. There will be a short social event for all registered participants. 
+There will be a day of public presentations which will be open to the public, and which feature two keynote talks and a poster session for graduate students. There will also be a day of paper workshops, which will be restricted to registered participants. During this day, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. There will be a short social event for all registered participants on November 22. 
 
 All talks and sessions will be held in English.
 
-### Miscellaneous information
-- The city's average temperature is 14°C (57°F) and it usually fluctuates between 9°C (48°F) and 22°C (72°F), during the course of the day. You can also expect it to be rainy.
-
-- For safety reasons, **we strongly discourage you from hailing taxis on the street**. It is much safer to use the EasyTaxi app, available on all major mobile platforms, or to arrange for a car service to pick you up. A good car service is http://www.bogotacarservice.com/. At the airport, and right after you go through customs with your bag, you will see a taxi stand on your right (along with money exchange booths). If you do not make arrangements with a car service to pick you up at the airport, it is best to approach this taxi booth and arrange for a taxi to take you to your destination then.
-
-- Although restaurants and major stores typically accept credit cards, many places (including taxis) will not accept credit cards. Make sure you bring some Colombian pesos with you. 
-
-- Tips are typically 10% of your bill, and are usually included in the service (or else your server will ask you if you'd like to include the service as they process your payment).
-
-- English is not commonly spoken in Colombia, except in hotels. 
-
-- To learn more about the campus of Universidad de los Andes, and about the city more generally, you can visit https://campusinfo.uniandes.edu.co/en/. Another great resource to learn more about Bogotá is https://bogotacb.com/en/.
 
 ### Organizing team
 
-- Luis Bernardo Mejía (Universidad de los Andes, Colombia)
+- Santiago López Cariboni (Universidad Católica del Uruguay)
+- Carmen Le Foulon (Universidad Católica de Chile)
 - Felipe Botero (Universidad de los Andes, Colombia)
 - John Londregan (Princeton University)
 - Carmen Le Foulon (Universidad Católica de Chile)
-- Santiago López-Cariboni (Universidad Católica del Uruguay)
-- Luis Maldonado (Universidad Católica de Chile)
 - Santiago Olivella (University of North Carolina at Chapel Hill, USA)
 
 ### Sponsors
 
-<img src="uniandes.png" alt="Universidad de los Andes" height="50"> <img src="princeton.jpg" alt="Princeton University" height="50"> <img src="PolMeth.png" alt="Society for Political Methodology" height="50"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" height="50">
+<img src="ucu.png" alt="Universidad Católica del Uruguay" height="50"> <img src="princeton.jpg" alt="Princeton University" height="50"> <img src="PolMeth.png" alt="Society for Political Methodology" height="50"> <img src="unc.jpg" alt="University of North Carolina at Chapel Hill" height="50">
 
 
 
