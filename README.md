@@ -1,4 +1,4 @@
-<a href="#apply">Apply</a> | <a href="#logistics">Logistics</a>
+<a href="#register">Register</a> | <a href="#logistics">Logistics</a>
 ---
 <img src="LAPolMeth_Logo.png" alt="LAPolMeth"> 
 
@@ -10,11 +10,17 @@ Welcome! We are excited to announce the third Latin American PolMeth meeting. Th
 The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists.
 
 ## Apply
-Applications are now open to participate as an *author* or as a presenter of a *graduate student poster*. We encourage those interested in participating to submit their abstracts through our application form, available at the event's [Cambridge University Press website](https://www.cambridge.org/core/membership/spm/register). **The deadline for submission is June 3, 2019. We will inform all applicants of a decision by June 10, 2019.**  
+Applications are now **closed**. 
 
 ## Register
-
-Registration for this event is not yet open. 
+Registration for this event is now open! You can register through the event's [Cambridge University Press website](https://www.cambridge.org/core/membership/spm/register). 
+Cost of registration:
+- SPM members:
+    + Faculty/Professional: 15 USD
+    + Students: 10 USD
+- Non-SPM members
+    + Faculty/Professional: 50 USD
+    + Students: 20 USD
 
 ## Program
 
