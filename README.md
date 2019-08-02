@@ -42,9 +42,9 @@ All talks and sessions will be held in English.
 
 - Santiago López Cariboni (Universidad Católica del Uruguay)
 - Carmen Le Foulon (Universidad Católica de Chile)
+- Lorena Barberia (Universidade de São Paulo)
 - Felipe Botero (Universidad de los Andes, Colombia)
 - John Londregan (Princeton University)
-- Carmen Le Foulon (Universidad Católica de Chile)
 - Santiago Olivella (University of North Carolina at Chapel Hill, USA)
 
 ### Sponsors
