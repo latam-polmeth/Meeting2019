@@ -30,7 +30,7 @@ We are excited to have the program for this year's event ready! The current copy
 
 
 ### Meeting location
-The meeting will take place in **Montevideo, Uruguay**, at the Universidad Católica del Uruguyay, on **November 22 and 23, 2010**. Additional information will be made available here as the time of the event draws near. 
+The meeting will take place in **Montevideo, Uruguay**, at the Universidad Católica del Uruguyay, on **November 22 and 23, 2019**. Additional information will be made available here as the time of the event draws near. 
 
 ### Event format
 The event will feature parallel paper workshops, which will be restricted to registered participants. During these sessions, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. The event will also feature two keynote presentations at the end of each day. These presentations are open to the public. There will be a short social event for all registered participants on November 23. 
