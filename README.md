@@ -7,7 +7,7 @@
 
 Welcome! We are excited to announce the third Latin American PolMeth meeting. The event will take place in November 22 and 23 of 2019 in Montevideo, Uruguay. It is hosted by the Universidad Católica del Uruguay, with support from Princeton University, the Society for Political Methodology and the University of North Carolina at Chapel Hill. 
 
-The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists, including [In Song Kim](http://web.mit.edu/insong/www/) (MIT) and [Rocío Titiunik](https://politics.princeton.edu/people/rocio-titiunik) (Princeton). 
+The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists, including [In Song Kim](http://web.mit.edu/insong/www/) (MIT),  [Guy Whitten](https://pols.tamu.edu/about-us/faculty-directory/guy-d-whitten-professor/) (TAMU), [Sebastian Saiegh](https://pages.ucsd.edu/~ssaiegh/) (UCSD) and [Rocío Titiunik](https://politics.princeton.edu/people/rocio-titiunik) (Princeton). 
 
 ## Apply
 Applications are now **closed**. 
