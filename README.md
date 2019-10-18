@@ -13,24 +13,30 @@ The meeting will feature paper workshops, a poster session for graduate students
 Applications are now **closed**. 
 
 ## Register
-Registration for this event is now open! You can register through the event's [Cambridge University Press website](https://www.cambridge.org/core/membership/spm/register). 
-Cost of registration:
-- SPM members:
-    + Faculty/Professional: 15 USD
-    + Students: 10 USD
-- Non-SPM members
-    + Faculty/Professional: 50 USD
-    + Students: 20 USD
+Registration for this event is now **closed**.
 
 ## Program
 
-We are excited to have the program for this year's event ready! The current copy of it can be found [here](https://docs.google.com/document/d/1_9r8keDmRbJeIB_V3ZfNgPIWmNjf7HxXqLq9XFdMADg/edit?usp=sharing).
+The final program for this year's event can be found [here](https://docs.google.com/document/d/1_9r8keDmRbJeIB_V3ZfNgPIWmNjf7HxXqLq9XFdMADg/edit?usp=sharing).
 
 ## Logistics
 
-
 ### Meeting location
-The meeting will take place in **Montevideo, Uruguay**, at the Universidad Católica del Uruguyay, on **November 22 and 23, 2010**. Additional information will be made available here as the time of the event draws near. 
+The meeting will take place in **Montevideo, Uruguay**, at the Universidad Católica del Uruguyay, on **November 22 and 23, 2010**. 
+The main entrance to Universidad Católica is located at Av. 8 de Octubre 2738. As you walk in, please follow the signs that will lead you to the registration desk located on the third floor of the building (next to the Political Science department). 
+
+### Transportation from/to the airport
+The Carrasco International Airport is located about 30 minutes from downtown Montevideo. The best transportation option from and to the airport is the so called _remise_, which is effectively a private car transfer. A reputable remise service is [B&B remises](https://www.bybremises.com/). **You must make arrangements for a remise to pick you up ahead of time**. To go from the airport to Montevideo, you can make arrangements online ahead of your arrival; a driver will be waiting right outside baggage claim with your name on display. Upon leaving, you can make arrangements either online or through your hotel front-desk. 
+Although taxis are available at the airport, they are typically less comfortable and slightly more expensive than a _remise_. We encourage you to make arragements with a remise for transportation to and from the airport. 
+
+### Lodging
+The Universidad Católica has arranged for a special rate with the [Armon Suites Hotel](https://www.armonsuites.com.uy/en/). Simply inform them you are affiliated with the event organized by the Department of Social and Political Science at Universidad Católica del Uruguay. 
+
+AirBnB is also a terrific option in the city. Generally, the Punta Carretas and Pocitos neighborhoods are great options: they are close to the rambla, extremely safe, and not too far from downtown. Although the Carrasco neighboorhood is a posh alternative, bear in mind that it is quite far from the University's campus.    
+
+### Transportation in Montevideo
+Uber is a fantastic option to get around in Montevideo. Not only is it very inexpensive, it is also very safe, and can be paid through the regular app. Taxis are also generally safe, but typically only accept cash. We have found that vistors benefit from having an international data plan on their phones (T-Mobile, for instance, offers this service). 
+
 
 ### Event format
 The event will feature parallel paper workshops, which will be restricted to registered participants. During these sessions, previously circulated manuscipts will be actively discussed, and **no presentation will take place**. The event will also feature two keynote presentations at the end of each day. These presentations are open to the public. There will be a short social event for all registered participants on November 23. 
